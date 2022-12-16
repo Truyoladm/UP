@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/truyol.com.ico",
     "slug": "truyol",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1738,
     "timeDay": 2298,
     "timeWeek": 1738,
     "timeMonth": 1738,
     "timeYear": 1738,
-    "dailyMinutesDown": {
-      "2022-12-15": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
